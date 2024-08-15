@@ -1,0 +1,1 @@
+[A. Bear and Prime 100](https://codeforces.com/problemset/problem/679/A)

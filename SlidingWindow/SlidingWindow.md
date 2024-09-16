@@ -1,1 +1,0 @@
-[SLIDING WINDOW](https://usaco.guide/gold/sliding-window)

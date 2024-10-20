@@ -1,1 +1,1 @@
-<img src="10xCP.png">
+<img src="/CP-Templates/10xCP.png">
